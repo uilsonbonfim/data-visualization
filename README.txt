@@ -13,7 +13,7 @@ The output expeceted from this script is:
 
 Before start it is necessary:
 
-1) Uncompress the file named 'dataset'
+1) Uncompress the file named 'dataset' or download CSV from https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators and save in a file named 'dataset'
 2) install pandas, matplot and mpld3 libraries. 
 Copy the codes and paste in your terminal: 
 
