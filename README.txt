@@ -9,12 +9,12 @@ This folder is composed by:
 
 The output expeceted from this script is: 
 1) New browser window containg the generated chart
-2) A html file named index with can be coppied and embeed on a website
+2) A html file named index with can be coppied and embeeded on a website
 
 Before start it is necessary:
 
 1) Uncompress the file named 'dataset' 
-or download CSV from https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators and save into a folder named 'dataset' at the same folder that scripts.
+or download CSVs from https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators and save into a folder named 'dataset' at the same folder that scripts.
 
 For instance:
 
@@ -34,7 +34,7 @@ For instance:
 
 ############################################################
 
-2) install pandas, matplot and mpld3 libraries. 
+2) Install pandas, matplot and mpld3 libraries. 
 Copy the codes and paste in your terminal: 
 
 1) pip install pandas
