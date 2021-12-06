@@ -8,13 +8,13 @@ This folder is composed by:
 4) 1 Compressed Folder containg 6 datasets in .csv
 
 The output expeceted from this script is: 
-1) New browser window containg the generated chat
-2) A html file named index with cam be coppied and embeed on a website
+1) New browser window containg the generated chart
+2) A html file named index with can be coppied and embeed on a website
 
 Before start it is necessary:
 
 1) Uncompress the file named 'dataset' 
-or download CSV from https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators and save in a folder named 'dataset' at the same folder that scripts.
+or download CSV from https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators and save into a folder named 'dataset' at the same folder that scripts.
 
 For instance:
 
